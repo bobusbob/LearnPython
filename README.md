@@ -1,1 +1,1 @@
-# LearnPython
+# Изучение Python
