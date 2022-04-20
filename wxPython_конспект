@@ -1,1 +1,8 @@
+# Импортируем wxPython через pip, для проверки создадим простую пустую форму
 
+import wx
+
+app = wx.App()
+frame = wx.Frame(None, title='Hello World!', size=(300, 200))
+frame.Show()
+app.MainLoop()
