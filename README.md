@@ -1,5 +1,7 @@
 # Изучение Python
 ## wxPython
+1.Сергей Балакирев - wxPython
+
 ## Django
 ## Книги
 ## Курсы
