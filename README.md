@@ -13,4 +13,5 @@
 ## Postgres
 ## MS SQL
 # Linux
+1.GeekBrains Linux. Рабочая станция (2020) V.1 Буранов
 ## Курсы
